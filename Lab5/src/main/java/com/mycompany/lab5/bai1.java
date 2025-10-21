@@ -11,6 +11,9 @@ package com.mycompany.lab5;
 public class bai1 {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        int x = 5;
+        int y = 6;
+        int z = x + y;
+        System.out.println(z);
     }
 }
